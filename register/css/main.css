@@ -501,7 +501,7 @@ input {
 }
 
 .card-3 .card-heading {
-  background: url("../images/logowhitegrayborder.png") top left/cover no-repeat;
+  /* background: url("../images/logowhitegrayborder.png") top left/cover no-repeat; */
   display: table-cell;
   max-width: 50%;
   width: px;
